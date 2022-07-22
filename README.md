@@ -44,6 +44,7 @@ git pull origin <내 로컬 브랜치>
   - 특이사항 : 최근 리눅스에 크게 혼쭐났음
 
 - 안녕하세요. 이형진입니다
+- PULL REQUEST TEST
 
 ## K026  양수진
 
