@@ -18,6 +18,9 @@ git fetch <원격 저장소 이름>
 
 git pull origin <내 로컬 브랜치>
 
+### 이거 되나????
+
+
 ## J162
 
 
